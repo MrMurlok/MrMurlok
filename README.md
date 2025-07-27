@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 
 **My tech stack**
 
-![](https://img.shields.io/badge/Html-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Clojure-239120?style=for-the-badge&logo=clojure&logoColor=white)
+![](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ---
 
