@@ -1,19 +1,36 @@
-**Hi there 👋. My name is Aleksandr, and i'm starting frontend developer!**
-___
-Here are some ideas to get you started:
+**Привет 👋. Меня зовут Александр, и я начинающий фронтенд-разработчик!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Помогаю создавать современные, красивые и удобные сайты, а также предоставляю услуги по их размещению и поддержке.
+___
+Что я могу сделать для вас:  
+
+
+✔️ Создание уникальных сайтов с нуля  
+✔️ Адаптивная верстка под любые устройства  
+✔️ Разработка интерфейсов на Vue.js  
+✔️ Помощь в размещении сайта на хостинге  
+✔️ Поддержка и обновление существующих проектов  
 
 ---
 
-**My tech stack**
+Почему выбирают меня:  
+* Ответственный подход к работе  
+* Быстрая обратная связь  
+* Желание учиться и развиваться  
+* Готовность реализовать ваши идеи  
+
+
+---
+Связаться со мной:  
+
+
+📧 Электронная почта: [djmurlok.sf@gmail.com]  
+📱 Соцсети: [[Telegram](https://t.me/djmurlok), [Facebook](https://www.facebook.com/profile.php?id=61577350593274), [Instagram](https://www.instagram.com/dj_murlok)]  
+
+---
+
+
+**Мои навыки**
 
 ![](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
@@ -24,14 +41,3 @@ Here are some ideas to get you started:
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--My Codewars:    
-
-
-[![codewars](https://www.codewars.com/users/Boohlik/badges/large)](https://www.codewars.com/users/Boohlik) 
-
-
-My Leetcode:
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
---!>
